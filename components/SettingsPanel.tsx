@@ -262,3 +262,4 @@ export const SettingsPanel: React.FC<SettingsPanelProps> = ({ isOpen, onClose })
     </div>
   );
 };
+

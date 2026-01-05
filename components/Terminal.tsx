@@ -270,3 +270,4 @@ export const Terminal: React.FC<TerminalProps> = ({ isVisible, onToggle, workspa
     </div>
   );
 };
+

@@ -324,3 +324,4 @@ class FileSystemService {
 
 // Export singleton instance
 export const fileSystemService = new FileSystemService();
+

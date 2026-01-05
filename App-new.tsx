@@ -282,3 +282,4 @@ function getLanguageFromFilename(filename: string): string {
 }
 
 export default App;
+

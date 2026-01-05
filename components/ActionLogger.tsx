@@ -181,3 +181,4 @@ export const ActionLogger: React.FC<ActionLoggerProps> = ({ logs, onClear }) => 
     </div>
   );
 };
+
